@@ -1,3 +1,3 @@
 <h1>
-    <p align="center">Website</p>
+    <p align="center">The Website of ChipUnion</p>
 </h1>
